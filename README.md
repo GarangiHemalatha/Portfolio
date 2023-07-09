@@ -13,7 +13,7 @@
 ![preview img](/preview.png)
 
   <p align="center">
-    <a href="https://hugo-alexa-portfolio.netlify.app/">About Me</a>
+    <a href="https://alexa-responsive-portfolio-website.vercel.app/">About Me</a>
   </p>
 
                          
