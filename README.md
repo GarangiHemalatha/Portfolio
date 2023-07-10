@@ -10,10 +10,10 @@
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-
+![preview img](/preview.png)
 
   <p align="center">
-    <a href="https://alexa-responsive-portfolio-website.vercel.app/">![preview img](/preview.png)</a>
+    <a href="https://alexa-responsive-portfolio-website.vercel.app/">About Me</a>
   </p>
 
                          
